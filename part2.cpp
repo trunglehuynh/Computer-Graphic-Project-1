@@ -1,6 +1,4 @@
-//  part2.cpp
-//  ComputerGraohic-Proj1-TrungHuynh-801060243
-//
+//  Computer Graphic-Proj1
 //  Created by Trung Huynh on 2/9/17.
 //  Copyright © 2017 Trung Huynh. All rights reserved.
 //
